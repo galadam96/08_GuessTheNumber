@@ -1,0 +1,3 @@
+E:\Munkák\Programming\C\2023\GuessTheNumber\x64\Debug\GuessTheNumber.exe
+E:\Munkák\Programming\C\GuessTheNumber\x64\Debug\GuessTheNumber.exe
+E:\Munkák\Programming\C\08_GuessTheNumber\x64\Debug\GuessTheNumber.exe
